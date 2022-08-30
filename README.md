@@ -44,7 +44,8 @@ Deliverable 4:
 ## Study Design: MechaCar vs Competition.
 ### A statistical study that quantify how the MechaCar performs against the competition using the Horse Power of the Cars as our metric.
 
-H0 : MechaCar vehicle performance is not more efficient than other car brands
+H0 : MechaCar vehicle performance is not more efficient than other car brands.
+
 H1 : MecharCar vehicle performance is more efficient than other Car brands.
 
 The hypothesis will be testing if MechaCar is more efficient than a other Car brands using  horsepower of the Cars as comparison.
