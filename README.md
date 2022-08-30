@@ -42,7 +42,7 @@ The p-value for Lot 3 is 0.04168 which is less than 0.05 which means there is st
 
 Deliverable 4: 
 ## Study Design: MechaCar vs Competition.
-A statistical study that can quantify how the MechaCar performs against the competition using the Horse Power of the Cars as our metric.
+### A statistical study that quantify how the MechaCar performs against the competition using the Horse Power of the Cars as our metric.
 
 H0 : MechaCar vehicle performance is not more efficient than other car brands
 H1 : MecharCar vehicle performance is more efficient than other Car brands.
